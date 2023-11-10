@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471987028916",
+    "project_id": "seab-70ce5",
+    "storage_bucket": "seab-70ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471987028916:android:3e64f42e725e945575a8e1",
+        "android_client_info": {
+          "package_name": "com.example.seab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471987028916-98jhkle39kqdgrgmadmf8q0eb4j2kji5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG10Fhwq9wCvpUxwghZ50ofOleQMPPm-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471987028916-98jhkle39kqdgrgmadmf8q0eb4j2kji5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
